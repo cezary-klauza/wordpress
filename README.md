@@ -19,7 +19,13 @@ Java Script, Java, C++, C#, Python, PHP, SQL
 W pewnym momencie mojej podróży zacząłem uczyć się frameworków.
 Programowałem w React'cie i Springu, lecz moja przygoda powoli zaczynała zanikać.
 
+![alt text](https://github.com/cezary-klauza/wordpress/blob/main/kot.jpg)
 
+Wróciłem do starego hobby i zacząłem uczyć się technologii WordPress w której dziś robię strony i aplikacje webowe dla osób prywatnych, firm, freelancerów. Każdy kto potrzebuje pomocy, rady, lub chce zlecić mi wykonanie swojej własnej wymarzonej strony może do mnie napisać i napewno się odezwę!
+
+![alt text](https://github.com/cezary-klauza/wordpress/blob/main/studio1.jpg)
+
+Jeżeli jesteś zainteresowany moimi pracami i chciałbyś nawiązać ze mną współprace napisz do mnie mail'a!
 
 Kontakt:
 cezary10klauza@gmail.com
