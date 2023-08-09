@@ -1,4 +1,4 @@
-# wordpress
+## wordpress
 
 Witam w moim portfolio prac wordpress!
 Jeżeli jesteś zainteresowany moimi pracami zachęcam do współpracy.
